@@ -59,6 +59,7 @@ public class HomeWork implements Runnable {
                         this.pair.add(i);
                         System.out.println("Ciftli listeye eklenen sayi: " + i);
                         break;
+    
                     }
                     this.odd.add(i);
                     System.out.println("Tekli listeye eklenen sayi: " + i);
