@@ -27,7 +27,7 @@ public class HomeWork implements Runnable {
         increaseNumber();
         System.out.println("Tek olan sayilar:");
         System.out.println(this.odd);
-        System.out.println("###################################");
+        System.out.println("#####");
         System.out.println("Cift olan sayilar:");
         System.out.println(this.pair);
     }
